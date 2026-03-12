@@ -1,7 +1,7 @@
 # open_source_rpggame - Software Process Improvement Demo Open Source Project
 
 ## Description
-
+This is a multiplayer memory combat game. There are 2 players.
 
 ## Tech Stack
 Game
