@@ -27,11 +27,10 @@ Custom GameGrid class
 - uncover_tile_at_coords(Vector2 coords):
 	updates visible_grid and grid visuals
 
-## Tile - Architecture: Node2D
+## GridItem - Architecture: Node
 ### Script
-Custom Tile Resource
+Custom GridItem Node - tiles
 ### Description
-Use a Resource or Node - Resources as tiles are fairly static and the values shouldn't really change
 ### Nodes
 - Sprite
 
