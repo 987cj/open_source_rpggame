@@ -1,7 +1,15 @@
 # Design Decisions and Architecture
 ## Description
-### Example
-Design: Player Character (Pirate) - Architecture: 2DPlayerBody
+Page used to document design decision and code architecture. Scripts attached to architecture are not necessary.
+If wanting to implement a new abstract class, name that as the heading (##). 
+And then design is its name, and architecture is the type
+
+## Example
+-------------------
+## Player
+Design: playerCharacter - Architecture: 2DPlayerBody
+
+-------------------
 
 ## Autoloads (Global Scripts)
 - const TILE_PIXELS: to standardise tile size everywhere
