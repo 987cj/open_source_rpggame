@@ -9,15 +9,15 @@
 Cards are obtained as a combat reward by defeating barbarians, or by exploring rare landmarks. Players can choose from 3 random cards.
 
 Classes:
-*Combat*
+**Combat**
 Deal x damage to enemies within 1 space
-*Defence*
+**Defence**
 Avoid next combat
-*Exploration*
+**Exploration**
 Move 3 spaces instead of 1
-*Recruitment*
+**Recruitment**
 Gain 1 Viking
-*Raiding*
+**Raiding**
 Steal a card from a player
 
 ## Interactions
